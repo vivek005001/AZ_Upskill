@@ -4,15 +4,17 @@ import { X } from 'lucide-react';
 import learningContent from '@/data/learningContent.json';
 import Image from 'next/image';
 
-import ChevronUpIcon from '@/public/assets/icons/VectorUp.svg';
-import ChevronDownIcon from '@/public/assets/icons/VectorDown.svg';
-import ClockIcon from '@/public/assets/icons/ClockOutline.svg';
-import BarChart2Icon from '@/public/assets/icons/ChartBarOutline_2.svg';
-import FileTextIcon from '@/public/assets/icons/DocumentDuplicateOutline.svg';
-import PlayIcon from '@/public/assets/icons/PlayOutline.svg';
-import HelpCircleIcon from '@/public/assets/icons/InformationCircleOutline.svg';
-import QuestionIcon from '@/public/assets/icons/QuestionMarkCircleOutline.svg';
-import CodingIcon from '@/public/assets/icons/CodeOutline.svg';
+import ChevronUpIcon from '/public/assets/icons/VectorUp.svg';
+import ChevronDownIcon from '/public/assets/icons/VectorDown.svg';
+import ClockIcon from '/public/assets/icons/ClockOutline.svg';
+import BarChart2Icon from '/public/assets/icons/ChartBarOutline_2.svg';
+import FileTextIcon from '/public/assets/icons/DocumentDuplicateOutline.svg';
+import PlayIcon from '/public/assets/icons/PlayOutline.svg';
+import HelpCircleIcon from '/public/assets/icons/InformationCircleOutline.svg';
+import QuestionIcon from '/public/assets/icons/QuestionMarkCircleOutline.svg';
+import CodingIcon from '/public/assets/icons/CodeOutline.svg';
+import MentorIcon from '/public/assets/icons/MentorSession.svg';
+import LearningIcon from '/public/assets/icons/Learning.svg';
 
 
 const LearningPlatform = () => {
@@ -146,7 +148,7 @@ const LearningPlatform = () => {
                                 style={activeTab === 'mentor' ? selectedButtonStyle : {}}
                             >
                                 <div className="flex items-center space-x-2">
-                                    <Image src={FileTextIcon} alt="File Text" className="w-5 h-5" />
+                                    <Image src={MentorIcon} alt="Mentor" className="w-5 h-5" />
                                     <span>Mentor Sessions</span>
                                 </div>
                             </button>
@@ -160,7 +162,7 @@ const LearningPlatform = () => {
                                 style={activeTab === 'learning' ? selectedButtonStyle : {}}
                             >
                                 <div className="flex items-center space-x-2">
-                                    <Image src={FileTextIcon} alt="File Text" className="w-5 h-5" />
+                                    <Image src={LearningIcon} alt="Learning" className="w-5 h-5" />
                                     <span>Learning Material</span>
                                 </div>
                             </button>
