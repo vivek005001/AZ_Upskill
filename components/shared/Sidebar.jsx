@@ -1,12 +1,12 @@
 import Image from 'next/image';
 
 
-import LayoutDashboardIcon from '@/public/assets/icons/ViewGridOutline.svg';
-import GraduationCapIcon from '@/public/assets/icons/LightBulbOutline.svg';
-import MessageCircleIcon from '@/public/assets/icons/UserGroupOutline.svg';
-import TrendingUpIcon from '@/public/assets/icons/ClipboardOutline.svg';
-import TrophyIcon from '@/public/assets/icons/ChartBarOutline.svg';
-import BarChartIcon from '@/public/assets/icons/StarOutline.svg';
+import LayoutDashboardIcon from '@/public/static/assets/icons/ViewGridOutline.svg';
+import GraduationCapIcon from '@/public/static/assets/icons/LightBulbOutline.svg';
+import MessageCircleIcon from '@/public/static/assets/icons/UserGroupOutline.svg';
+import TrendingUpIcon from '@/public/static/assets/icons/ClipboardOutline.svg';
+import TrophyIcon from '@/public/static/assets/icons/ChartBarOutline.svg';
+import BarChartIcon from '@/public/static/assets/icons/StarOutline.svg';
 
 
   

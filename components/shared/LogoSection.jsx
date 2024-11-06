@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import logo from '@/public/assets/az_logo.svg';
-import name_logo from '@/public/assets/az_name_logo.svg';
+import logo from '@/public/static/assets/az_logo.svg';
+import name_logo from '@/public/static/assets/az_name_logo.svg';
 
 const LogoSection = () => {
   return (

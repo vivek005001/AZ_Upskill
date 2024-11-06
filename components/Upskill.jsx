@@ -4,17 +4,17 @@ import { X } from 'lucide-react';
 import learningContent from '@/data/learningContent.json';
 import Image from 'next/image';
 
-import ChevronUpIcon from '../public/assets/icons/VectorUp.svg';
-import ChevronDownIcon from '../public/assets/icons/VectorDown.svg';
-import ClockIcon from '../public/assets/icons/ClockOutline.svg';
-import BarChart2Icon from '../public/assets/icons/ChartBarOutline_2.svg';
-import FileTextIcon from '../public/assets/icons/DocumentDuplicateOutline.svg';
-import PlayIcon from '../public/assets/icons/PlayOutline.svg';
-import HelpCircleIcon from '../public/assets/icons/InformationCircleOutline.svg';
-import QuestionIcon from '../public/assets/icons/QuestionMarkCircleOutline.svg';
-import CodingIcon from '../public/assets/icons/CodeOutline.svg';
-import MentorIcon from '../public/assets/icons/MentorSession.svg';
-import LearningIcon from '../public/assets/icons/Learning.svg';
+import ChevronUpIcon from '@/public/static/assets/icons/VectorUp.svg';
+import ChevronDownIcon from '@/public/static/assets/icons/VectorDown.svg';
+import ClockIcon from '@/public/static/assets/icons/ClockOutline.svg';
+import BarChart2Icon from '@/public/static/assets/icons/ChartBarOutline_2.svg';
+import FileTextIcon from '@/public/static/assets/icons/DocumentDuplicateOutline.svg';
+import PlayIcon from '@/public/static/assets/icons/PlayOutline.svg';
+import HelpCircleIcon from '@/public/static/assets/icons/InformationCircleOutline.svg';
+import QuestionIcon from '@/public/static/assets/icons/QuestionMarkCircleOutline.svg';
+import CodingIcon from '@/public/static/assets/icons/CodeOutline.svg';
+import MentorIcon from '@/public/static/assets/icons/MentorSession.svg';
+import LearningIcon from '@/public/static/assets/icons/Learning.svg';
 
 
 const LearningPlatform = () => {

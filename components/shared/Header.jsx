@@ -2,8 +2,8 @@
 import { useState, useEffect } from 'react';
 import { MenuIcon, X } from 'lucide-react';
 import LogoSection from './LogoSection';
-import BellIcon from '@/public/assets/icons/bell.svg';
-import UserIcon from '@/public/assets/icons/user.svg';
+import BellIcon from '@/public/static/assets/icons/bell.svg';
+import UserIcon from '@/public/static/assets/icons/user.svg';
 import Sidebar from './Sidebar';
 import Image from 'next/image';
 
