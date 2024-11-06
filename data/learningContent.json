@@ -1,0 +1,300 @@
+{
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Chapter 1",
+        "totalTime": "05:00:00",
+        "isOpen": false,
+        "showTime": false,
+        "parts": [
+          {
+            "id": "part-1-1",
+            "title": "Lorem Ipsum Dolor Sit Amet",
+            "duration": "02:00:00",
+            "difficulty": "Medium",
+            "resourceCount": 5,
+            "progress": 45,
+            "content": [
+              {
+                "id": "c1-p1-1",
+                "type": "video",
+                "title": "Video 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p1-2",
+                "type": "article",
+                "title": "Article 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p1-3",
+                "type": "quiz",
+                "title": "Quiz 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p1-4",
+                "type": "exercise",
+                "title": "Coding Exercise 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p1-5",
+                "type": "resource",
+                "title": "Combined Resource 1",
+                "time": "10:00"
+              }
+            ]
+          },
+          {
+            "id": "part-1-2",
+            "title": "Lorem Ipsum Dolor Sit Amet",
+            "duration": "02:00:00",
+            "difficulty": "Medium",
+            "resourceCount": 5,
+            "progress": 20,
+            "content": [
+              {
+                "id": "c1-p2-1",
+                "type": "video",
+                "title": "Video 2",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p2-2",
+                "type": "article",
+                "title": "Article 2",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p2-3",
+                "type": "quiz",
+                "title": "Quiz 2",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p2-4",
+                "type": "exercise",
+                "title": "Coding Exercise 2",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p2-5",
+                "type": "resource",
+                "title": "Combined Resource 2",
+                "time": "10:00"
+              }
+            ]
+          },
+          {
+            "id": "part-1-3",
+            "title": "Lorem Ipsum Dolor Sit Amet",
+            "duration": "02:00:00",
+            "difficulty": "Medium",
+            "resourceCount": 5,
+            "progress": 0,
+            "content": [
+              {
+                "id": "c1-p3-1",
+                "type": "video",
+                "title": "Video 3",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p3-2",
+                "type": "article",
+                "title": "Article 3",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p3-3",
+                "type": "quiz",
+                "title": "Quiz 3",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p3-4",
+                "type": "exercise",
+                "title": "Coding Exercise 3",
+                "time": "10:00"
+              },
+              {
+                "id": "c1-p3-5",
+                "type": "resource",
+                "title": "Combined Resource 3",
+                "time": "10:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "chapter-2",
+        "title": "Chapter 2",
+        "totalTime": "04:30:00",
+        "isOpen": false,
+        "showTime": false,
+        "parts": [
+          {
+            "id": "part-2-1",
+            "title": "Advanced Concepts",
+            "duration": "01:30:00",
+            "difficulty": "Hard",
+            "resourceCount": 4,
+            "progress": 30,
+            "content": [
+              {
+                "id": "c2-p1-1",
+                "type": "video",
+                "title": "Video 1",
+                "time": "15:00"
+              },
+              {
+                "id": "c2-p1-2",
+                "type": "article",
+                "title": "Article 1",
+                "time": "15:00"
+              },
+              {
+                "id": "c2-p1-3",
+                "type": "quiz",
+                "title": "Quiz 1",
+                "time": "15:00"
+              },
+              {
+                "id": "c2-p1-4",
+                "type": "exercise",
+                "title": "Coding Exercise 1",
+                "time": "15:00"
+              }
+            ]
+          },
+          {
+            "id": "part-2-2",
+            "title": "Deep Dive",
+            "duration": "03:00:00",
+            "difficulty": "Hard",
+            "resourceCount": 6,
+            "progress": 10,
+            "content": [
+              {
+                "id": "c2-p2-1",
+                "type": "video",
+                "title": "Video 2",
+                "time": "20:00"
+              },
+              {
+                "id": "c2-p2-2",
+                "type": "article",
+                "title": "Article 2",
+                "time": "20:00"
+              },
+              {
+                "id": "c2-p2-3",
+                "type": "quiz",
+                "title": "Quiz 2",
+                "time": "20:00"
+              },
+              {
+                "id": "c2-p2-4",
+                "type": "exercise",
+                "title": "Coding Exercise 2",
+                "time": "20:00"
+              },
+              {
+                "id": "c2-p2-5",
+                "type": "resource",
+                "title": "Combined Resource 2",
+                "time": "20:00"
+              },
+              {
+                "id": "c2-p2-6",
+                "type": "project",
+                "title": "Project 1",
+                "time": "20:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "chapter-3",
+        "title": "Chapter 3",
+        "totalTime": "03:30:00",
+        "isOpen": false,
+        "showTime": false,
+        "parts": [
+          {
+            "id": "part-3-1",
+            "title": "Introduction to Basics",
+            "duration": "01:00:00",
+            "difficulty": "Easy",
+            "resourceCount": 3,
+            "progress": 80,
+            "content": [
+              {
+                "id": "c3-p1-1",
+                "type": "video",
+                "title": "Video 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c3-p1-2",
+                "type": "article",
+                "title": "Article 1",
+                "time": "10:00"
+              },
+              {
+                "id": "c3-p1-3",
+                "type": "quiz",
+                "title": "Quiz 1",
+                "time": "10:00"
+              }
+            ]
+          },
+          {
+            "id": "part-3-2",
+            "title": "Intermediate Topics",
+            "duration": "02:30:00",
+            "difficulty": "Medium",
+            "resourceCount": 5,
+            "progress": 60,
+            "content": [
+              {
+                "id": "c3-p2-1",
+                "type": "video",
+                "title": "Video 2",
+                "time": "15:00"
+              },
+              {
+                "id": "c3-p2-2",
+                "type": "article",
+                "title": "Article 2",
+                "time": "15:00"
+              },
+              {
+                "id": "c3-p2-3",
+                "type": "quiz",
+                "title": "Quiz 2",
+                "time": "15:00"
+              },
+              {
+                "id": "c3-p2-4",
+                "type": "exercise",
+                "title": "Coding Exercise 2",
+                "time": "15:00"
+              },
+              {
+                "id": "c3-p2-5",
+                "type": "resource",
+                "title": "Combined Resource 2",
+                "time": "15:00"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
